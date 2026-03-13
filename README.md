@@ -5,3 +5,6 @@ DonateMate is an IOS app designed to be used by charities to connect struggling 
 Pitch:
 https://docs.google.com/presentation/d/1wBksI77Osu4KPdiTM_8VTNyH_Iszt5bk/edit?usp=sharing&ouid=113730683889105344924&rtpof=true&sd=true
 
+Demo videos
+https://drive.google.com/file/d/1WY7cqXU5PrdHiyAJWz5h3fm9j4f8IokV/view?usp=sharing
+https://drive.google.com/file/d/1QKlCel7pyc9lNBEyju8-cKxOabfF1MVt/view?usp=sharing
